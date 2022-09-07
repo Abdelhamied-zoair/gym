@@ -1,0 +1,218 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+/*start header*/
+
+
+header{
+    height: 120vh;
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(img/carousel-1.jpg);
+    background-position: unset;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#log0-brand{
+    margin-left: 30px!important;
+}
+.bg-secondary  a{
+    font-weight: bold;
+    font-size: 1.1rem;
+
+}
+.bg-secondary {
+    background-color: #0a0f14!important;
+}
+#nav-links a{
+    color: #fff;
+}
+#nav-links a:hover{
+    color: #dc3545;
+    transition: .5s ease-in-out;
+    font-size: 1.2rem;
+}
+.intro{
+    position: absolute;
+    left: 32%;
+    top: 50%;
+
+}
+h2{ text-transform: uppercase;
+    color:  white;
+    font-weight: 700!important;
+    font-size: 3rem;
+}
+.text1{
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+.btn{
+  background-color: aliceblue;
+    color: #0a0f14;
+    margin-left: 160px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.btn:hover{
+    border-color: #0a0f14;
+    color: white;
+    background-color: #0a0f14;
+}
+section{
+    height: 85vh;
+
+}.gym-class{
+    position: absolute;
+    left: 12%;
+    bottom: -62%;
+}
+.bg-dark{
+    background-color: #0a0f14  !important;
+}
+.about-us{
+    position: relative;
+    top: 50%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.display-4{    font-size: 3rem;
+    text-transform: uppercase;
+}
+#text1{
+margin-left: 80px;
+margin-bottom: 100px;
+}
+#text1 p{
+   color: #0a0f14;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#book{
+    color: aliceblue;
+    background-color: #0a0f14;
+}
+#book:hover{
+    background-color: aliceblue;
+    border-color: aliceblue;
+    color: black;
+
+}
+main{
+    height: 100vh;
+}
+.blogs{
+    
+    position: relative;
+    top: 50%;
+    display: flex;
+    justify-content: center ;
+    flex-wrap: nowrap;
+    align-items: center;
+}.blogs div
+{   font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+#b1{
+    background-color:  #0a0f14 ;
+padding: 100px;}
+#b2{
+    background-color: #dc3545;
+    padding: 100px;
+}
+#b3{
+    background-color: #0a0f14 ;
+    padding: 100px;
+}
+.text-primary {
+    color: #0a0f14!important;
+}
+#h42{
+    font-size: 2rem;
+}
+.form-one{
+    height: 60vh;
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(img/bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .blog-form{
+   position: absolute;
+   left: 35%;
+margin-top: 70px;
+}
+h5{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1.5rem;
+text-align: center;
+font-family: sans-serif;
+
+}
+#book2{
+   
+    border-color: #dc3545;
+    color: aliceblue;
+    background-color: #dc3545; 
+    margin-left: 115px;
+}
+#book2:hover{
+    color: #dc3545;
+    border-color:white ;
+    background-color: white;
+    transition: .5s ease-in-out;
+
+
+}
+#card-text2{
+
+    color: #dc3545;
+    font-size: 1rem;
+    font-family: cursive;
+
+}
+#card-text3{
+color: #fff!important;
+    font-size: 1.3rem;
+    font-family: cursive;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 50%;
+    color: #dc3545;
+}
+.footer-text{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.card-footer a{
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #fff;
+}
+.card-footer a:hover{
+    text-decoration: none;
+    transition: .5s ease-in-out;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
